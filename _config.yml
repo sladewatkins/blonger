@@ -44,7 +44,9 @@ version: 3.0.0
 # Navbar page list
 nav:
 
+  - title: Blo(n)g(er)
+    url: https://blonger.sladewatkins.com
   - title: Home
     url: https://www.sladewatkins.com
   - title: Blog
-    url: /
+    url: https://www.sladewatkins.com/posts
