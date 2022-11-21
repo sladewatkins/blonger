@@ -2,7 +2,7 @@
 title: Slade's Blo(n)g(er)
 url: https://blonger.sladewatkins.com
 paginate: 1
-baseurl: "https://blonger.sladewatkins.com"
+baseurl: ""
 permalink: pretty
 
 # Gems
