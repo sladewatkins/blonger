@@ -12,7 +12,12 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> 
+     {% if author %}
+    <span class="post-date">
+         &bull; Written by <a href="{{ author.web }}">{{ author.name }}</a>
+    </span>
+      {% endif %}
 
     {{ post.content }}
   </article>
