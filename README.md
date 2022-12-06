@@ -1,4 +1,6 @@
-**Notice**: Blo(n)g(er)'s code is set to merge with [sladewatkins/website](https://github.com/sladewatkins/website) in the coming weeks. Once the new site goes live, this repository will be archived.
+**Notice**: Blo(n)g(er) has moved to [www.sladewatkins.com/blonger](https://www.sladewatkins.com/blonger/), and the source code can be found at [sladewatkins/website](https://github.com/sladewatkins/website). Cheers!
+
+---
 
 # Blo(n)g(er)
 Blo(n)g(er) is a new(ish) thing from Slade where he puts longer posts that can't fit on social media.
